@@ -1,0 +1,22 @@
+@media (max-width:1080px) {
+    .head-content{
+        margin-top: 150px;
+    }
+    .head-title{
+        font-size: 3em;
+    }
+    .w{
+        font-size: var(--fs--7);
+    }
+    a-scene{
+        min-height: 300px;
+        aspect-ratio: 1/1;
+    }
+    .body3-card-img{
+        height: 300px;
+        border-radius: 5px 5px 0 0;
+    }
+    .body3-right{
+        border-radius: 0 0 5px 5px;
+    }
+}
